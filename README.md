@@ -7,4 +7,4 @@ I've started my coding journey a year ago and picked it up again recently. Curre
 
 ## My Projects
 [<img src="RegExorcist_mac.png" alt="RegExorcist" width="128"/>](https://github.com/yasingunaydiin/regexorcist)
-[<img src="Spellchecker_mac.png" alt="Spellchecker" width="128"/>](https://github.com/yasingunaydiin/spellchecker)
+[<img src="Spellchecker_mac.png" alt="Illumicheck" width="128"/>](https://github.com/yasingunaydiin/spellchecker)
