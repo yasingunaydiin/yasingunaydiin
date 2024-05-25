@@ -8,4 +8,4 @@ I've started my coding journey a year ago and picked it up again recently. Curre
 ## My Projects
 [<img src="RegExorcist_mac.png" alt="RegExorcist" width="128"/>](https://github.com/yasingunaydiin/regexorcist)
 [<img src="Illumicheck_mac.png" alt="Illumicheck" width="128"/>](https://github.com/yasingunaydiin/illumicheck)
-[<img src="ProgressDex_logo.png" alt="ProgressDex" width="128"/>](https://github.com/yasingunaydiin/progressdex)
+[<img src="ProgressionDex_logo.png" alt="ProgressDex" width="128"/>](https://github.com/yasingunaydiin/progressdex)
