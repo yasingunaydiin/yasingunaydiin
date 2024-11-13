@@ -10,6 +10,5 @@ Translator and Junior Front-End Developer with passion and a dream.
 [<img src="actionslist_logo.png" alt="actionsList" width="128"/>](https://github.com/yasingunaydiin/actionslist)
 [<img src="RegExorcist_mac.png" alt="RegExorcist" width="128"/>](https://github.com/yasingunaydiin/regexorcist)
 [<img src="Illumicheck_mac.png" alt="Illumicheck" width="128"/>](https://github.com/yasingunaydiin/illumicheck)
-[<img src="Empty_MacOS_icon.png" alt="Portfolio" width="128"/>](https://github.com/yasingunaydiin/portfolio)
 [<img src="Empty_MacOS_icon.png" alt="Yukilanlari" width="128"/>](https://github.com/yasingunaydiin/yukilanlari)
 
