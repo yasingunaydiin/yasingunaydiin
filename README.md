@@ -1,6 +1,6 @@
 # Introduction
   
-  - 🔭 Translator and Junior Front-End Developer
+  - 🔭 Translator and Front-End Developer
   - 📫 email: y.gunaydinmail@gmail.com
 
 Translator and Junior Front-End Developer with passion and a dream.
