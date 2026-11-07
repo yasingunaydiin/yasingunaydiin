@@ -3,7 +3,7 @@
   - 🔭 Translator and Front-End Developer
   - 📫 email: y.gunaydinmail@gmail.com
 
-Translator and IT guy with passion and a dream.
+Part Translator, part Support Engineer, part Developer with passion and a dream.
 
 ## My Projects
 [<img src="Portfolio_logo.png" alt="Portfolio" width="128"/>](https://github.com/yasingunaydiin/portfolio)
