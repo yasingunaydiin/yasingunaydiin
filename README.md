@@ -4,6 +4,6 @@
 
 Part Translator, part Support Engineer, part Developer with passion and a dream.
 
-## My Projects
+## More info
 [<img src="Portfolio_logo.png" alt="Portfolio" width="128"/>](https://github.com/yasingunaydiin/portfolio)
 
